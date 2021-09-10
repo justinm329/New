@@ -3,16 +3,21 @@
 ## Description
 This repository contains...
 
-### Objective
+## Requirements
+- Python (https://www.python.org/)
+- 
 
-### Libraries and Dependencies
+## Objective
+
+## Libraries and Dependencies
 - [numpy](https://numpy.org/)
 - [pandas](https://pandas.pydata.org/)
 
-### Outcomes
+## Outcomes
 
 ---
 ## Contact Informtion
+- **Justin Farnan***
 - **Email**: justinm329@yahoo.com
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/justin-farnan/)
 - **Medium**: [Medium](https://medium.com/@justinfarnan)
