@@ -3,6 +3,14 @@
 ## Description
 This repository contains...
 
+### Objective
+
+### Libraries and Dependencies
+- [numpy](https://numpy.org/)
+- [pandas](https://pandas.pydata.org/)
+
+### Outcomes
+
 ---
 ## Contact Informtion
 - **Email**: justinm329@yahoo.com
