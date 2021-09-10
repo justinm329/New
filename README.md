@@ -13,14 +13,15 @@ This repository contains...
 - [numpy](https://numpy.org/)
 - [pandas](https://pandas.pydata.org/)
 
-# Installations
+## Installations
 `pip install python-dotenv`
 
 ## Outcomes
 
+
 ---
 ## Contact Informtion
-- **Justin Farnan***
+- **Justin Farnan**
 - **Email**: justinm329@yahoo.com
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/justin-farnan/)
 - **Medium**: [Medium](https://medium.com/@justinfarnan)
