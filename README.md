@@ -3,15 +3,18 @@
 ## Description
 This repository contains...
 
-## Requirements
-- Python (https://www.python.org/)
-- 
-
 ## Objective
+
+## Requirements
+- [Python](https://www.python.org/)
+- [Jupyter Lab](https://www.anaconda.com/)
 
 ## Libraries and Dependencies
 - [numpy](https://numpy.org/)
 - [pandas](https://pandas.pydata.org/)
+
+# Installations
+`pip install python-dotenv`
 
 ## Outcomes
 
